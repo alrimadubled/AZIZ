@@ -1,0 +1,8 @@
+{
+  "name": "X-Strat: AI Twitter Management",
+  "description": "A comprehensive AI-powered Twitter/X management platform for scheduling, analytics, and multilingual content strategy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

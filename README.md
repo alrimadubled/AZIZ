@@ -1,11 +1,21 @@
-<div align="center">
+# X Manager Pro - Complete Twitter/X Management Platform
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A professional, AI-powered Twitter/X management platform designed for content creators, social media managers, and marketing teams.
 
-  <h1>Built with AI Studio</h2>
+## ✨ Features
+- **Tweet Management**: Schedule, edit, and automate posts.
+- **AI Content Generation**: Powered by Gemini AI for tweets and threads.
+- **Media Management**: Centralized library for all your assets.
+- **Advanced Analytics**: Real-time performance tracking.
+- **Trending Intelligence**: Regional and global trend analysis.
+- **Multilingual Support**: English, Arabic (Algerian), and French.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🛠 Tech Stack
+- **Frontend**: React, Tailwind CSS, Recharts, Lucide Icons.
+- **Backend**: Express.js, SQLite (better-sqlite3).
+- **AI**: Google Gemini API.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## 🚀 Quick Start
+1. Install dependencies: `npm install`
+2. Start development server: `npm run dev`
+3. Configure `GEMINI_API_KEY` in your environment.
